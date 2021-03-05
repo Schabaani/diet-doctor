@@ -6,7 +6,7 @@ import { useFocusEffect } from '@react-navigation/native';
 import Recipes from '_src/scenes/recipes';
 import Meals from '_src/scenes/meals';
 import More from '_src/scenes/more';
-import ShoppingList from '_src/scenes/profile/shopping-list';
+import ShoppingList from '_src/scenes/shopping-list';
 import { MyToast } from '_src/components';
 
 const Tab = createBottomTabNavigator();

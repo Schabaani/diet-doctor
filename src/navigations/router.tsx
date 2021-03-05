@@ -1,7 +1,6 @@
 export type InitStackParamList = {
   DeveloperScreen: undefined;
   InitApp?: { devMode?: 'DEVELOPMENT' | 'PRODUCTION' };
-  Login: { mobile?: string; refCode?: string | null };
   AppNavigator: undefined;
 };
 

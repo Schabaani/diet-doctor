@@ -10,7 +10,7 @@ interface IProps {
 }
 
 interface IState {}
-export default class Dashboard extends React.PureComponent<IProps, IState> {
+export default class ShoppingList extends React.PureComponent<IProps, IState> {
   constructor(props: IProps) {
     super(props);
     this.state = {};
