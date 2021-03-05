@@ -21,6 +21,7 @@ export const Header = (props: HeaderProps) => {
         onPress={() => {
           onPressFavorite();
         }}
+        hitSlop={{ top: 5, left: 5, right: 5, bottom: 5 }}
       >
         <Image
           source={ImageIcons['Heart']}
