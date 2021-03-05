@@ -7,6 +7,7 @@ import { RouteProp } from '@react-navigation/native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { InitStackParamList } from '_navigations/router';
 import { MySafeView } from '_src/components';
+import { BorderRadius } from '_src/utils/enums';
 
 const { width } = Dimensions.get('window');
 
@@ -103,7 +104,7 @@ const styles = StyleSheet.create({
   btn: {
     width: '60%',
     backgroundColor: '#fff',
-    borderRadius: 10,
+    borderRadius: BorderRadius.Medium,
     marginTop: 15
   },
   btnInner: {
@@ -114,13 +115,13 @@ const styles = StyleSheet.create({
     paddingVertical: 5,
     borderWidth: 1,
     borderColor: '#e4e8f1',
-    borderRadius: 10
+    borderRadius: BorderRadius.Medium
   },
   updateRow: {
     width: '60%',
     height: 50,
     borderWidth: 1,
-    borderRadius: 10,
+    borderRadius: BorderRadius.Medium,
     borderColor: '#ccc',
     flexDirection: Platform.OS == 'ios' ? 'row-reverse' : 'row',
     justifyContent: 'center',
@@ -140,13 +141,13 @@ const styles = StyleSheet.create({
   },
   transparentBg: {
     backgroundColor: '#ffffff50',
-    borderRadius: 15,
+    borderRadius: 3 * BorderRadius.Medium,
     padding: 5,
     marginBottom: 10
   },
   logo: {
     backgroundColor: '#fff',
-    borderRadius: 15
+    borderRadius: 3 * BorderRadius.Small
   },
   title: {
     fontSize: 20,

@@ -1,5 +1,6 @@
 import React, { PureComponent } from 'react';
 import { Animated, StyleSheet, TouchableOpacity, Text } from 'react-native';
+import { BorderRadius } from '_src/utils/enums';
 
 interface IProps {
   message: string;
@@ -119,7 +120,7 @@ const styles = StyleSheet.create({
     zIndex: 999
   },
   message: {
-    borderRadius: 40,
+    borderRadius: 4 * BorderRadius.Medium,
     paddingHorizontal: 15,
     paddingVertical: 3
   }

@@ -52,7 +52,18 @@ const Styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: MarginSizes.Large,
     height: 50,
-    backgroundColor: Colors.White
+    backgroundColor: Colors.White,
+    borderColor: '#eee',
+    margin: -1,
+    marginTop: 0,
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 0,
+      height: 1
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+    elevation: 3
   },
   title: {
     fontSize: FontSize.XXLarge,

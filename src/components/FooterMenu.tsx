@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 import { BottomTabNavigationProp } from '@react-navigation/bottom-tabs';
 import { BottomNavParamList } from '_navigations/router';
-import { Colors } from '_src/utils/enums';
+import { BorderRadius, Colors } from '_src/utils/enums';
 
 type FooterMenuItem = MenuItem & { path: keyof BottomNavParamList };
 
@@ -163,14 +163,14 @@ const styles = StyleSheet.create({
     maxHeight: 80,
     borderWidth: 0,
     backgroundColor: '#0757ff',
-    borderRadius: 10,
+    borderRadius: BorderRadius.Medium,
     justifyContent: 'center',
     alignItems: 'center'
   },
   iconContainer: {
     backgroundColor: '#fff',
     padding: 10,
-    borderRadius: 10
+    borderRadius: BorderRadius.Medium
   },
   linearGradient: {
     flex: 1,
