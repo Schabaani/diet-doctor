@@ -1,0 +1,134 @@
+{
+    "data": 
+    [
+        {
+            "title": "New recipes",
+            "query": "Navigate to Recipe screen and get related data New recipes",
+            "items": [
+                {
+                    "id": "wp-us-recipe-4317187",
+                    "isMembersOnly": true,
+                    "title": "Goat cheese bites with marinated sesame seeds",
+                    "description": "Marinated sesame seeds are an ideal flavor enhancer. We love them with goat cheese — a creamy and crunchy flavor combination! These low-carb goat cheese bites with marinated sesame seeds will sure be a hit with your guests.",
+                    "rating": 3,
+                    "modifiedAt": "2021-02-01T03:40:31Z",
+                    "slug": "goat-cheese-bites-with-marinated-sesame-seeds",
+                    "imageUri":"https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+                    "gram": 2,
+                    "color": "red"
+                },
+                {
+                    "id": "wp-us-recipe-14434",
+                    "isMembersOnly": false,
+                    "title": "Keto spinach and goat cheese pie",
+                    "description": "There’s good pie, and then there’s mind-blowingly amazing pie. This keto pie falls in the latter category. Savory spinach. Creamy goat cheese. Stunning colors. O.M.G., you want this on your plate!",
+                    "rating": 4,
+                    "modifiedAt": "2021-02-01T03:40:31Z",
+                    "slug": "keto-spinach-goat-cheese-pie",
+                    "imageUri": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                    "gram": 2,
+                    "color": "green"
+                },
+                {
+                    "id": "wp-us-recipe-4317187",
+                    "isMembersOnly": false,
+                    "title": "Goat cheese bites with marinated sesame seeds",
+                    "description": "Marinated sesame seeds are an ideal flavor enhancer. We love them with goat cheese — a creamy and crunchy flavor combination! These low-carb goat cheese bites with marinated sesame seeds will sure be a hit with your guests.",
+                    "rating": 3,
+                    "modifiedAt": "2021-02-01T03:40:31Z",
+                    "slug": "goat-cheese-bites-with-marinated-sesame-seeds",
+                    "imageUri": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+                    "gram": 9,
+                    "color": "blue"
+                },
+                {
+                    "id": "wp-us-recipe-4317187",
+                    "isMembersOnly": false,
+                    "title": "Goat cheese bites with marinated sesame seeds",
+                    "description": "Marinated sesame seeds are an ideal flavor enhancer. We love them with goat cheese — a creamy and crunchy flavor combination! These low-carb goat cheese bites with marinated sesame seeds will sure be a hit with your guests.",
+                    "rating": 3,
+                    "modifiedAt": "2021-02-01T03:40:31Z",
+                    "slug": "goat-cheese-bites-with-marinated-sesame-seeds",
+                    "imageUri": "https://images.pexels.com/photos/3186654/pexels-photo-3186654.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                    "gram": 2,
+                    "color": "red"
+                }
+            ]
+        },
+        {
+            "title": "Famous recipes",
+            "query": "Navigate to Recipe screen and get related data Famous recipes",
+            "items": [
+                {
+                    "id": "wp-us-recipe-4317187",
+                    "isMembersOnly": false,
+                    "title": "Goat cheese bites with marinated sesame seeds",
+                    "description": "Marinated sesame seeds are an ideal flavor enhancer. We love them with goat cheese — a creamy and crunchy flavor combination! These low-carb goat cheese bites with marinated sesame seeds will sure be a hit with your guests.",
+                    "rating": 5,
+                    "modifiedAt": "2021-02-01T03:40:31Z",
+                    "slug": "goat-cheese-bites-with-marinated-sesame-seeds",
+                    "imageUri": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                    "gram": 2,
+                    "color": "red"
+                },
+                {
+                    "id": "wp-us-recipe-14434",
+                    "isMembersOnly": false,
+                    "title": "Keto spinach and goat cheese pie",
+                    "description": "There’s good pie, and then there’s mind-blowingly amazing pie. This keto pie falls in the latter category. Savory spinach. Creamy goat cheese. Stunning colors. O.M.G., you want this on your plate!",
+                    "rating": 4,
+                    "modifiedAt": "2021-02-01T03:40:31Z",
+                    "slug": "keto-spinach-goat-cheese-pie",
+                    "imageUri": "https://images.pexels.com/photos/286283/pexels-photo-286283.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                    "gram": 2,
+                    "color": "green"
+
+                }
+            ]
+        },
+        {
+            "title": "Main Meals",
+            "query": "Navigate to Screen screen and get related data Main Meals",
+            "items": [
+                {
+                    "id": "wp-us-recipe-4317187",
+                    "isMembersOnly": false,
+                    "title": "Goat cheese bites with marinated sesame seeds",
+                    "description": "Marinated sesame seeds are an ideal flavor enhancer. We love them with goat cheese — a creamy and crunchy flavor combination! These low-carb goat cheese bites with marinated sesame seeds will sure be a hit with your guests.",
+                    "rating": 5,
+                    "modifiedAt": "2021-02-01T03:40:31Z",
+                    "slug": "goat-cheese-bites-with-marinated-sesame-seeds",
+                    "imageUri": "https://images.pexels.com/photos/406152/pexels-photo-406152.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                    "gram": 2,
+                    "color": "red"
+                },
+                {
+                    "id": "wp-us-recipe-14434",
+                    "isMembersOnly": false,
+                    "title": "Keto spinach and goat cheese pie",
+                    "description": "There’s good pie, and then there’s mind-blowingly amazing pie. This keto pie falls in the latter category. Savory spinach. Creamy goat cheese. Stunning colors. O.M.G., you want this on your plate!",
+                    "rating": 4,
+                    "modifiedAt": "2021-02-01T03:40:31Z",
+                    "slug": "keto-spinach-goat-cheese-pie",
+                    "imageUri": "https://images.pexels.com/photos/1391487/pexels-photo-1391487.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                    "gram": 2,
+                    "color": "green"
+
+                },
+                {
+                    "id": "wp-us-recipe-14434",
+                    "isMembersOnly": true,
+                    "title": "Keto spinach and goat cheese pie",
+                    "description": "There’s good pie, and then there’s mind-blowingly amazing pie. This keto pie falls in the latter category. Savory spinach. Creamy goat cheese. Stunning colors. O.M.G., you want this on your plate!",
+                    "rating": 4,
+                    "modifiedAt": "2021-02-01T03:40:31Z",
+                    "slug": "keto-spinach-goat-cheese-pie",
+                    "imageUri": "https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+                    "gram": 4,
+                    "color": "blue"
+
+                }
+            ]
+        }
+    ]
+}
