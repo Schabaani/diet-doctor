@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 import { BottomTabNavigationProp } from '@react-navigation/bottom-tabs';
 import { BottomNavParamList } from '_navigations/router';
-import { MenuItem } from '_redux/reducers/remote-config';
+import { Colors } from '_src/utils/enums';
 
 type FooterMenuItem = MenuItem & { path: keyof BottomNavParamList };
 
@@ -80,7 +80,7 @@ class FooterMenu extends PureComponent<Props, State> {
           <Text
             style={[
               styles.menuItemText,
-              { color: isActive ? '#FE724C' : '#A7B3C1' },
+              { color: isActive ? Colors.GreenDiet : '#A7B3C1' },
               { fontSize }
             ]}
           >
@@ -124,7 +124,6 @@ const styles = StyleSheet.create({
     },
     shadowOpacity: 0.25,
     shadowRadius: 3.84,
-
     elevation: 10
   },
   flatList: {
